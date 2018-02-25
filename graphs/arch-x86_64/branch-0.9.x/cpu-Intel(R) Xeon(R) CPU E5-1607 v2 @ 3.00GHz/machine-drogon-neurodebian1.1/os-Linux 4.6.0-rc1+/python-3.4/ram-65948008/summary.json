@@ -2,9 +2,9 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.12561982579630887, 
-        "last_rev": 7647, 
-        "last_value": 0.9401813237927854, 
+        "last_err": 0.12035674977777316, 
+        "last_rev": 7948, 
+        "last_value": 0.9310404304414988, 
         "name": "api.supers.time_createadd", 
         "pretty_name": "api.supers.time_createadd", 
         "prev_value": null
@@ -12,9 +12,9 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.1319533615875912, 
-        "last_rev": 7647, 
-        "last_value": 0.9586912032682449, 
+        "last_err": 0.12715176125670238, 
+        "last_rev": 7948, 
+        "last_value": 0.9521470498293638, 
         "name": "api.supers.time_createadd_to_dataset", 
         "pretty_name": "api.supers.time_createadd_to_dataset", 
         "prev_value": null
@@ -22,25 +22,25 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.41172955313049564, 
-        "last_rev": 7647, 
-        "last_value": 3.174041111837141, 
+        "last_err": 0.4159881497746529, 
+        "last_rev": 7948, 
+        "last_value": 3.1602602801285684, 
         "name": "api.supers.time_installr", 
         "pretty_name": "api.supers.time_installr", 
         "prev_value": null
     }, 
     {
         "change_rev": [
-            7490, 
-            7495
+            7647, 
+            7706
         ], 
         "idx": null, 
-        "last_err": 0.00029131194285128065, 
-        "last_rev": 7647, 
-        "last_value": 0.0962966970000025, 
+        "last_err": 0.0006530912042680099, 
+        "last_rev": 7948, 
+        "last_value": 0.10230711065232753, 
         "name": "api.supers.time_ls", 
         "pretty_name": "api.supers.time_ls", 
-        "prev_value": 0.08409223950002342
+        "prev_value": 0.0962966970000025
     }, 
     {
         "change_rev": [
@@ -48,9 +48,9 @@
             7169
         ], 
         "idx": null, 
-        "last_err": 0.008819367746926016, 
-        "last_rev": 7647, 
-        "last_value": 1.0838469280861318, 
+        "last_err": 0.00825356067950601, 
+        "last_rev": 7948, 
+        "last_value": 1.0843195340130478, 
         "name": "api.supers.time_ls_recursive", 
         "pretty_name": "api.supers.time_ls_recursive", 
         "prev_value": 1.45641794311814
@@ -61,9 +61,9 @@
             7169
         ], 
         "idx": null, 
-        "last_err": 0.01027911850768659, 
-        "last_rev": 7647, 
-        "last_value": 1.2060308509971946, 
+        "last_err": 0.009803516338509856, 
+        "last_rev": 7948, 
+        "last_value": 1.2049937599804252, 
         "name": "api.supers.time_ls_recursive_long_all", 
         "pretty_name": "api.supers.time_ls_recursive_long_all", 
         "prev_value": 1.5760674281045794
@@ -71,9 +71,9 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.5709267955544645, 
-        "last_rev": 7647, 
-        "last_value": 3.510961303138174, 
+        "last_err": 0.6502455344162544, 
+        "last_rev": 7948, 
+        "last_value": 3.4825023668818176, 
         "name": "api.supers.time_remove", 
         "pretty_name": "api.supers.time_remove", 
         "prev_value": null
@@ -81,9 +81,9 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.059389334588423506, 
-        "last_rev": 7647, 
-        "last_value": 0.28304107626900077, 
+        "last_err": 0.059088356341529216, 
+        "last_rev": 7948, 
+        "last_value": 0.27738878643140197, 
         "name": "api.testds.time_create_test_dataset1", 
         "pretty_name": "api.testds.time_create_test_dataset1", 
         "prev_value": null
@@ -91,70 +91,73 @@
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.3768629271840675, 
-        "last_rev": 7647, 
-        "last_value": 2.4584836354479194, 
+        "last_err": 0.38064872521192034, 
+        "last_rev": 7948, 
+        "last_value": 2.43972327420488, 
         "name": "api.testds.time_create_test_dataset2x2", 
         "pretty_name": "api.testds.time_create_test_dataset2x2", 
         "prev_value": null
     }, 
     {
         "change_rev": [
-            7446, 
-            7481
+            7647, 
+            7706
         ], 
         "idx": null, 
-        "last_err": 4.832721789362521e-06, 
-        "last_rev": 7647, 
-        "last_value": 0.0011245429649998186, 
+        "last_err": 9.995653188194739e-06, 
+        "last_rev": 7948, 
+        "last_value": 0.0012900630329968409, 
         "name": "core.runner.time_echo", 
         "pretty_name": "core.runner.time_echo", 
-        "prev_value": 0.0012964034527540207
+        "prev_value": 0.0011245429649998186
     }, 
     {
         "change_rev": [
-            7446, 
-            7481
+            7647, 
+            7706
         ], 
         "idx": null, 
-        "last_err": 1.1825713631567782e-05, 
-        "last_rev": 7647, 
-        "last_value": 0.0015752891199999795, 
+        "last_err": 2.241357248699801e-05, 
+        "last_rev": 7948, 
+        "last_value": 0.0017479651269968598, 
         "name": "core.runner.time_echo_gitrunner", 
         "pretty_name": "core.runner.time_echo_gitrunner", 
-        "prev_value": 0.00179206891648937
+        "prev_value": 0.0015752891199999795
     }, 
     {
         "change_rev": null, 
         "idx": null, 
-        "last_err": 0.060986823411175374, 
-        "last_rev": 7647, 
-        "last_value": 0.3918510280782357, 
+        "last_err": 0.05809147936255972, 
+        "last_rev": 7948, 
+        "last_value": 0.39141186350025237, 
         "name": "core.startup.time_help_np", 
         "pretty_name": "core.startup.time_help_np", 
         "prev_value": null
     }, 
     {
         "change_rev": [
-            5816, 
-            5824
+            null, 
+            7446
         ], 
         "idx": null, 
-        "last_err": 0.0022994503300053748, 
-        "last_rev": 7647, 
-        "last_value": 0.1232605220284313, 
+        "last_err": 0.004620665134279988, 
+        "last_rev": 7948, 
+        "last_value": 0.11127035545725902, 
         "name": "core.startup.time_import", 
         "pretty_name": "core.startup.time_import", 
-        "prev_value": 0.09104488304583355
+        "prev_value": 0.12338811070658268
     }, 
     {
-        "change_rev": null, 
+        "change_rev": [
+            6853, 
+            6922
+        ], 
         "idx": null, 
-        "last_err": 0.037798276748329245, 
-        "last_rev": 7647, 
-        "last_value": 0.2938107820227742, 
+        "last_err": 0.019987678654245233, 
+        "last_rev": 7948, 
+        "last_value": 0.33072420791722834, 
         "name": "core.startup.time_import_api", 
         "pretty_name": "core.startup.time_import_api", 
-        "prev_value": null
+        "prev_value": 0.3057811660692096
     }
 ]
